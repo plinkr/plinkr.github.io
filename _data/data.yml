@@ -51,12 +51,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Experienced Software Engineer with strong expertise in Java/Spring, Python, Flutter, and SQL, along with a
-      solid grasp of Full Stack development and DevOps. I excel in complex backend tasks, from database management
-      to API design, with a focus on building reliable and efficient systems. A collaborative team player with
-      over 10 years of experience, known for problem-solving skills and keen attention to detail. While backend
-      development is my specialty, I’m also capable of contributing to frontend work and mobile app development
-      when required. I’m passionate about Open Source and enjoy collaborating with teams.
+      Experienced Software Engineer with strong expertise in Java/Spring, Python, Flutter, and SQL, and a
+      solid grasp of Full Stack development and DevOps. I excel in complex backend tasks, from database
+      management to API design, with a focus on building reliable and efficient systems. With over 10
+      years of experience, I’m a collaborative team player, known for my hardworking nature,
+      problem-solving skills, and keen attention to detail. While backend development is my specialty,
+      I’m also capable of contributing to frontend work and mobile app development when required.
+      I’m passionate about Open Source and enjoy collaborating with teams.
 education:
     title: Education
     info:
