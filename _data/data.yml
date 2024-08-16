@@ -1,0 +1,288 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Aliet Expósito
+    tagline: Software Engineer
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: plinkr.code@gmail.com
+    phone: 
+    timezone: America/Havana # Enter your timezone, e.g., America/Cancun, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: Cuban
+    website: https://plinkr.github.io # Include the full website URL, including "http://" or "https://".
+    linkedin: aliet-exposito
+    xing: 
+    github: plinkr
+    telegram: plinkr # add your nickname without '@' sign
+    gitlab: plinkr
+    bitbucket:
+    twitter: '@plinker'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    mastodon: https://fosstodon.org/@plinkr # Please include your full Mastodon link here.
+    hackerrank: plinkr # Please provide your HackerRank username.
+    leetcode: plinkr # Please provide your LeetCode username.
+    pdf: assets/Aliet_Exposito_Resume.pdf
+
+    languages:
+      title: Languages
+      info:
+        - idiom: Spanish
+          level: Native
+
+        - idiom: English
+          level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Training MMA
+          link: https://en.wikipedia.org/wiki/Mixed_martial_arts
+
+career-profile:
+    title: Career Profile
+    summary: |
+      Experienced Software Engineer with strong expertise in Java/Spring, Python, Flutter, and SQL, along with a
+      solid grasp of Full Stack development and DevOps. I excel in complex backend tasks, from database management
+      to API design, with a focus on building reliable and efficient systems. A collaborative team player with
+      over 10 years of experience, known for problem-solving skills and keen attention to detail. While backend
+      development is my specialty, I’m also capable of contributing to frontend work and mobile app development
+      when required. I’m passionate about Open Source and enjoy collaborating with teams.
+education:
+    title: Education
+    info:
+      - degree: Engineer's degree, Informatics
+        university: Universidad de Sancti Spíritus "José Martí Pérez"​
+        time: 2009 - 2014
+        details:
+
+      - degree: Computer Science
+        university: Universidad Central "Marta Abreu"​ de Las Villas
+        time: 2005 - 2009
+        details: 
+
+experiences:
+    title: Experiences
+    info:
+      - role: Full-Stack/Mobile Developer, DevOps
+        time: 2020 - Present
+        company: Abalia, Madrid
+        details: |
+          At Abalia, I’ve been deeply involved in the development and maintenance of large-scale applications.
+          My main project, <a href="https://elser.es" target="_blank">Elser</a>, is a comprehensive web
+          application for managing HR resources and assets, built using Java with Spring and Spring Boot on
+          the backend, and JSF, PrimeFaces, and JoinFaces for the frontend. This platform handles everything
+          from employee attendance and leave management to job candidate selection and outsourcing. It's a
+          robust and highly active application, continually evolving with new features.
+
+          I also developed the mobile version of Elser using Flutter, which replicates much of the web
+          app’s functionality and is currently in beta on Google Play.
+
+          Another major project I work on is <a href="https://hosteleo.com" target="_blank">Hosteleo</a>,
+          a job search platform focused on the hospitality and tourism industries. I designed and
+          implemented the entire backend using Java, Spring Boot, and PostgreSQL, and integrated various
+          third-party services like Stripe for payments, SendGrid for emails, and Google Cloud for hosting
+          user files. Hosteleo serves hundreds of thousands of users and includes Google Ads management.
+
+          In addition to these, I manage QA and testing for a web application called
+          <a href="https://vission.omega.wizzie.dev/" target="_blank">Vission</a>, automating tests with
+          Python and Selenium. I also handle DevOps tasks, including cloud hosting on Google Cloud for both
+          Elser and Hosteleo, and oversee the release process for the Elser mobile app. My role has also involved
+          smaller projects like database migrations from MySQL to PostgreSQL and managing WordPress services
+          for both Hosteleo and Abalia.
+      - role: Developer, DevOps, System Administrator
+        time: 2018 - 2020
+        company: University of Medical Sciences "Dr Faustino Pérez Hernández", Sancti Spíritus
+        details: |
+          At the University of Medical Sciences in Sancti Spíritus, I was responsible for the programming,
+          network administration, and DevOps for the university’s cloud services. I worked extensively with
+          Docker and Kubernetes to manage and deploy these services. My role involved writing tools in Python
+          and Perl to support network and service administration, as well as developing applications like a
+          virtual library and digital journal system using Java, Python, Perl, Bash, and PHP.
+
+          I collaborated closely with engineering teams to integrate custom libraries and digital repositories
+          into existing systems. I also defined network specifications to optimize performance, handled system
+          upgrades, and ensured data integrity. Additionally, I maintained system security by installing necessary
+          patches and updates to keep the services reliable and secure.
+      - role: Software Engineer, System Network Administrator
+        time: 2014 - 2017
+        company: University of Sancti Spíritus "José Martí Pérez"
+        details: |
+          At the University of Sancti Spíritus, I was part of the application development team while also handling
+          responsibilities under the IT and networks group. I developed and managed several key applications,
+          including the university's thesis repository, the internal webmail client, and the digital journals
+          for academic publications. My work extended to managing essential services like the university’s network,
+          internet proxy, and mail servers, all hosted on Linux and Proxmox systems, which I fully administered.
+
+          My role involved coding in languages like Java, Bash, Python, PHP, Perl, and C, with a focus on both
+          software development and the security of the network and services. I also handled the physical
+          installation and setup of servers when needed. I collaborated closely with the software development
+          and testing teams to build secure, high-performance applications, and I documented processes for system
+          monitoring, recovery, and optimization.
+
+          Additionally, I taught programming courses and led competitive programming workshops, combining hands-on
+          coding with theoretical knowledge to help students develop their skills. My work was centered on ensuring
+          reliable, secure, and efficient operations across both software and hardware systems.
+
+certifications:
+      title: Certifications
+      list:
+        - name: Java Certificate
+          start: 2024
+          end:
+          organization: OpenWebinars
+          credentialid: W8Pf
+          credentialurl: https://openwebinars.net/cert/W8Pf
+          credentialname: OpenWebinars
+          details: |
+            Java Aptitude Test by OpenWebinars. An advanced level, A2, was achieved.
+        - name: Software Engineer Certificate
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: e85f36b730de
+          credentialurl: https://www.hackerrank.com/certificates/e85f36b730de
+          credentialname: HackerRank
+          details: |
+            Software Engineer from HackerRank. It covers topics like Problem solving, SQL, and REST API.
+        - name: Java Certificate
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: 34d5f51ea5c3
+          credentialurl: https://www.hackerrank.com/certificates/34d5f51ea5c3
+          credentialname: HackerRank
+          details: |
+            Java Certificate from HackerRank. It covers basic topics in Java language such as classes,
+            data structures, inheritance, exception handling, etc. You are expected to be proficient in either Java 7
+            or Java 8.
+        - name: JavaScript Certificate
+          start: 2023
+          end:
+          organization: OpenWebinars
+          credentialid: liO2
+          credentialurl: https://openwebinars.net/cert/liO2
+          credentialname: OpenWebinars
+          details: |
+            JavaScript Aptitude Test by OpenWebinars. An medium level, M2, was achieved.
+        - name: MySQL Certificate
+          start: 2023
+          end:
+          organization: OpenWebinars
+          credentialid: rX9E
+          credentialurl: https://openwebinars.net/cert/rX9E
+          credentialname: OpenWebinars
+          details: |
+            MySQL Aptitude Test by OpenWebinars. An medium level, M2, was achieved.
+        - name: Problem Solving (Intermediate) Certificate
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: a9b99be03077
+          credentialurl: https://www.hackerrank.com/certificates/a9b99be03077
+          credentialname: HackerRank
+          details: |
+            Problem Solving (Intermediate) from HackerRank. It covers topics of Data Structures (such as HashMaps,
+            Stacks and Queues) and Algorithms (such as Optimal Solutions).
+        - name: Problem Solving (Basic) Certificate
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: 86e0bb0b1baf
+          credentialurl: https://www.hackerrank.com/certificates/86e0bb0b1baf
+          credentialname: HackerRank
+          details: |
+            Problem Solving (Basic) from HackerRank. It covers basic topics of Data Structures (such as Arrays,
+            Strings) and Algorithms (such as Sorting and Searching).
+        - name: Python Certificate
+          start: 2023
+          end:
+          organization: OpenWebinars
+          credentialid: jWPo
+          credentialurl: https://openwebinars.net/cert/jWPo
+          credentialname: OpenWebinars
+          details: |
+            Python Aptitude Test by OpenWebinars. An advanced level, A2, was achieved.
+        - name: Python Certificate
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: 3ade1eebf198
+          credentialurl: https://www.hackerrank.com/certificates/3ade1eebf198
+          credentialname: HackerRank
+          details: |
+            Python Certificate from HackerRank. It covers topics like Scalar Types, Operators and Control
+            Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes.
+        - name: SQL Certificate
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: 658505ab9849
+          credentialurl: https://www.hackerrank.com/certificates/658505ab9849
+          credentialname: HackerRank
+          details: |
+            SQL (Intermediate) Certificate from HackerRank. It includes complex joins, unions, and sub-queries.
+        - name: SQL Certificate
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: e75f000ce5a6
+          credentialurl: https://www.hackerrank.com/certificates/e75f000ce5a6
+          credentialname: HackerRank
+          details: |
+            SQL (Basic) Certificate from HackerRank. It includes simple queries, relationships, and aggregators.
+
+oss:
+    title: OSS Contributions
+    intro: >
+      Here is a list of some OSS contributions and personal open-source projects:
+    contributions:
+      - title: plocate Search for LibreELEC/Kodi
+        link: "https://github.com/plinkr/tools.plocate.search"
+        tagline: "An efficient offline search add-on for LibreELEC/Kodi, utilizing `plocate` for quick file searches with an intuitive Kodi interface."
+
+      - title: NautaPy
+        link: "https://github.com/plinkr/nautapy"
+        tagline: "Python API for Cuba's Nauta captive portal + CLI"
+
+      - title: Training Timer
+        link: "https://github.com/plinkr/training_timer"
+        tagline: "A timer for interval training (MMA, Boxing, Kickboxing). Written in Flutter, it can be used natively on Linux and on the web."
+        
+      - title: dartfmt plugin for micro
+        link: "https://github.com/plinkr/micro-dartfmt"
+        tagline: "micro editor plugin providing Dart language support, including formatting and linting using `dart format` and `dart analyze`."
+
+skills:
+    title: Main Skills
+
+    toolset:
+      - name: Java & Spring
+        level: 95%
+        
+      - name: PostgreSQL & PL/SQL
+        level: 95%
+        
+      - name: Dart & Flutter
+        level: 90%
+
+      - name: Python
+        level: 90%
+
+      - name: Quarkus
+        level: 90%
+
+      - name: C & Zig & Rust
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
