@@ -141,7 +141,7 @@ certifications:
           end:
           organization: OpenWebinars
           credentialid: W8Pf
-          credentialurl: https://openwebinars.net/cert/W8Pf
+          credentialurl: openwebinars.net/cert/W8Pf
           credentialname: OpenWebinars
           details: |
             Java Aptitude Test by OpenWebinars. An advanced level, A2, was achieved.
@@ -150,7 +150,7 @@ certifications:
           end:
           organization: HackerRank
           credentialid: e85f36b730de
-          credentialurl: https://www.hackerrank.com/certificates/e85f36b730de
+          credentialurl: www.hackerrank.com/certificates/e85f36b730de
           credentialname: HackerRank
           details: |
             Software Engineer from HackerRank. It covers topics like Problem solving, SQL, and REST API.
@@ -159,7 +159,7 @@ certifications:
           end:
           organization: HackerRank
           credentialid: 34d5f51ea5c3
-          credentialurl: https://www.hackerrank.com/certificates/34d5f51ea5c3
+          credentialurl: www.hackerrank.com/certificates/34d5f51ea5c3
           credentialname: HackerRank
           details: |
             Java Certificate from HackerRank. It covers basic topics in Java language such as classes,
@@ -170,7 +170,7 @@ certifications:
           end:
           organization: OpenWebinars
           credentialid: liO2
-          credentialurl: https://openwebinars.net/cert/liO2
+          credentialurl: openwebinars.net/cert/liO2
           credentialname: OpenWebinars
           details: |
             JavaScript Aptitude Test by OpenWebinars. An medium level, M2, was achieved.
@@ -179,7 +179,7 @@ certifications:
           end:
           organization: OpenWebinars
           credentialid: rX9E
-          credentialurl: https://openwebinars.net/cert/rX9E
+          credentialurl: openwebinars.net/cert/rX9E
           credentialname: OpenWebinars
           details: |
             MySQL Aptitude Test by OpenWebinars. An medium level, M2, was achieved.
@@ -188,7 +188,7 @@ certifications:
           end:
           organization: HackerRank
           credentialid: a9b99be03077
-          credentialurl: https://www.hackerrank.com/certificates/a9b99be03077
+          credentialurl: www.hackerrank.com/certificates/a9b99be03077
           credentialname: HackerRank
           details: |
             Problem Solving (Intermediate) from HackerRank. It covers topics of Data Structures (such as HashMaps,
@@ -198,7 +198,7 @@ certifications:
           end:
           organization: HackerRank
           credentialid: 86e0bb0b1baf
-          credentialurl: https://www.hackerrank.com/certificates/86e0bb0b1baf
+          credentialurl: www.hackerrank.com/certificates/86e0bb0b1baf
           credentialname: HackerRank
           details: |
             Problem Solving (Basic) from HackerRank. It covers basic topics of Data Structures (such as Arrays,
@@ -208,7 +208,7 @@ certifications:
           end:
           organization: OpenWebinars
           credentialid: jWPo
-          credentialurl: https://openwebinars.net/cert/jWPo
+          credentialurl: openwebinars.net/cert/jWPo
           credentialname: OpenWebinars
           details: |
             Python Aptitude Test by OpenWebinars. An advanced level, A2, was achieved.
@@ -217,7 +217,7 @@ certifications:
           end:
           organization: HackerRank
           credentialid: 3ade1eebf198
-          credentialurl: https://www.hackerrank.com/certificates/3ade1eebf198
+          credentialurl: www.hackerrank.com/certificates/3ade1eebf198
           credentialname: HackerRank
           details: |
             Python Certificate from HackerRank. It covers topics like Scalar Types, Operators and Control
@@ -227,7 +227,7 @@ certifications:
           end:
           organization: HackerRank
           credentialid: 658505ab9849
-          credentialurl: https://www.hackerrank.com/certificates/658505ab9849
+          credentialurl: www.hackerrank.com/certificates/658505ab9849
           credentialname: HackerRank
           details: |
             SQL (Intermediate) Certificate from HackerRank. It includes complex joins, unions, and sub-queries.
@@ -236,7 +236,7 @@ certifications:
           end:
           organization: HackerRank
           credentialid: e75f000ce5a6
-          credentialurl: https://www.hackerrank.com/certificates/e75f000ce5a6
+          credentialurl: www.hackerrank.com/certificates/e75f000ce5a6
           credentialname: HackerRank
           details: |
             SQL (Basic) Certificate from HackerRank. It includes simple queries, relationships, and aggregators.
