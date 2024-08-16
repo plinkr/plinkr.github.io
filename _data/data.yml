@@ -247,20 +247,20 @@ oss:
       Here is a list of some OSS contributions and personal open-source projects:
     contributions:
       - title: plocate Search for LibreELEC/Kodi
-        link: "https://github.com/plinkr/tools.plocate.search"
-        tagline: "An efficient offline search add-on for LibreELEC/Kodi, utilizing `plocate` for quick file searches with an intuitive Kodi interface."
+        link: https://github.com/plinkr/tools.plocate.search
+        tagline: An efficient offline search add-on for LibreELEC/Kodi, utilizing `plocate` for quick file searches with an intuitive Kodi interface
 
       - title: NautaPy
-        link: "https://github.com/plinkr/nautapy"
-        tagline: "Python API for Cuba's Nauta captive portal + CLI"
+        link: https://github.com/plinkr/nautapy
+        tagline: Python API for Cuba's Nauta captive portal + CLI
 
       - title: Training Timer
-        link: "https://github.com/plinkr/training_timer"
-        tagline: "A timer for interval training (MMA, Boxing, Kickboxing). Written in Flutter, it can be used natively on Linux and on the web."
+        link: https://github.com/plinkr/training_timer
+        tagline: A timer for interval training (MMA, Boxing, Kickboxing). Written in Flutter, it can be used natively on Linux and on the <a href="/training_timer_web" target="_blank">web</a>
         
       - title: dartfmt plugin for micro
-        link: "https://github.com/plinkr/micro-dartfmt"
-        tagline: "micro editor plugin providing Dart language support, including formatting and linting using `dart format` and `dart analyze`."
+        link: https://github.com/plinkr/micro-dartfmt
+        tagline: micro editor plugin providing Dart language support, including formatting and linting using `dart format` and `dart analyze`
 
 skills:
     title: Main Skills
