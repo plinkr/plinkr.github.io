@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>https://plinkr.github.io/</loc>
+  <lastmod>2024-08-28T04:32:23+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://plinkr.github.io/assets/Aliet_Exposito_Resume.pdf</loc>
+  <lastmod>2024-08-28T04:32:23+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://plinkr.github.io/training_timer_web/</loc>
+  <lastmod>2024-08-08T20:47:53+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
