@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/plinkr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://plinkr.github.io
+  * I am plinkr (https://keybase.io/plinkr) on keybase.
+  * I have a public key ASBcmr5P_JwDwd42u2SoU18ybwbT8VSXAx4fPZanHJLFnQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205c9abe4ffc9c03c1de36bb64a8535f326f06d3f15497031e1f3d96a71c92c59d0a",
+      "host": "keybase.io",
+      "kid": "01205c9abe4ffc9c03c1de36bb64a8535f326f06d3f15497031e1f3d96a71c92c59d0a",
+      "uid": "4f6007146094b9b23fc4bae80e28ff19",
+      "username": "plinkr"
+    },
+    "merkle_root": {
+      "ctime": 1727806392,
+      "hash": "a8294c16c3cc308b090262b671771644622448ade34bbb7e87501ab8fbb90a46520a8fa1fd5251c22cef936aaeeda6e723077d2db1ac67ba816b4135ddf2c102",
+      "hash_meta": "633ba092f6d65ab805249a945cd884ef01f2f3c773ea99f50a63016ffcdd569d",
+      "seqno": 26164396
+    },
+    "service": {
+      "entropy": "sDoBWTjhy8FJMA2BLwAw2vVG",
+      "hostname": "plinkr.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.4.0"
+  },
+  "ctime": 1727806484,
+  "expire_in": 504576000,
+  "prev": "0614ef30de62d3f6d204121f1ecad73918ba316fe7cffbd930ff2f373a5553fc",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXJq+T/ycA8HeNrtkqFNfMm8G0/FUlwMeHz2WpxySxZ0Kp3BheWxvYWTESpcCBcQgBhTvMN5i0/bSBBIfHsrXORi6MW/nz/vZMP8vNzpVU/zEIDwj1wZNagVEX88N7z2KDiVNIsrWg6L9OnhTDXxx8mrhAgHCo3NpZ8RA+pjBAApfw/uDkT/GRqRTl/dKOPoOp4plLkUN9X3qkaN9un50PTxfBIvAhOP6J2kA4+OMZ2Q5kM9KsSZ1Dua7C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAYq2PSOgiwI2xiaBJuPu0kFukPpwFVgtraPAg26h0N6o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/plinkr
+
+==================================================================
