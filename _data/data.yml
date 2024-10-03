@@ -142,6 +142,25 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: SQL (Advanced) Certificate
+          start: 2024
+          end:
+          organization: HackerRank
+          credentialid: 80621e684fe9
+          credentialurl: www.hackerrank.com/certificates/80621e684fe9
+          credentialname: HackerRank
+          details: |
+            SQL (Advanced) Certificate. It covers topics like query optimization, data modeling,
+            Indexing, window functions, and pivots in SQL.
+        - name: Software Engineer Certificate
+          start: 2024
+          end:
+          organization: HackerRank
+          credentialid: a6b75bf2260f
+          credentialurl: www.hackerrank.com/certificates/a6b75bf2260f
+          credentialname: HackerRank
+          details: |
+            Software Engineer Certificate. It covers topics like Problem solving and SQL.
         - name: Java Certificate
           start: 2024
           end:
