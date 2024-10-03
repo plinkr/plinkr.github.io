@@ -85,6 +85,10 @@ experiences:
           from employee attendance and leave management to job candidate selection and outsourcing. It's a
           robust and highly active application, continually evolving with new features.
 
+          In parallel, I am currently developing an alternative application to Elser, using a backend in
+          Spring-Boot and a frontend with Angular. This is a greenfield project, built from scratch with
+          Angular and a specialized backend, designed to be mobile-friendly and support reactive mode.
+
           I also developed the mobile version of Elser using Flutter, which replicates much of the web
           app’s functionality and is currently in beta on Google Play.
 
@@ -96,10 +100,11 @@ experiences:
 
           In addition to these, I manage QA and testing for a web application called
           <a href="https://vission.omega.wizzie.dev/" target="_blank">Vission</a>, automating tests with
-          Python and Selenium. I also handle DevOps tasks, including cloud hosting on Google Cloud for both
-          Elser and Hosteleo, and oversee the release process for the Elser mobile app. My role has also involved
-          smaller projects like database migrations from MySQL to PostgreSQL and managing WordPress services
-          for both Hosteleo and Abalia.
+          Python and Selenium. I also lead the QA and testing process for Elser, using Playwright and Pytest
+          with Python. Additionally, I handle DevOps tasks, including cloud hosting on Google Cloud for
+          both Elser and Hosteleo, and oversee the release process for the Elser mobile app. My role has
+          also involved smaller projects like database migrations from MySQL to PostgreSQL and managing
+          WordPress services for both Hosteleo and Abalia.
       - role: Developer, DevOps, System Administrator
         time: 2018 - 2020
         company: University of Medical Sciences "Dr Faustino Pérez Hernández", Sancti Spíritus
