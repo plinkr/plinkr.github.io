@@ -150,7 +150,7 @@ certifications:
           credentialurl: openwebinars.net/cert/W8Pf
           credentialname: OpenWebinars
           details: |
-            Java Aptitude Test by OpenWebinars. An advanced level, A2, was achieved.
+            Java Aptitude Test. An advanced level, A2, was achieved.
         - name: Software Engineer Certificate
           start: 2023
           end:
@@ -159,7 +159,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/e85f36b730de
           credentialname: HackerRank
           details: |
-            Software Engineer from HackerRank. It covers topics like Problem solving, SQL, and REST API.
+            Software Engineer Certificate. It covers topics like Problem solving, SQL, and REST API.
         - name: Java Certificate
           start: 2023
           end:
@@ -168,8 +168,8 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/34d5f51ea5c3
           credentialname: HackerRank
           details: |
-            Java Certificate from HackerRank. It covers basic topics in Java language such as classes,
-            data structures, inheritance, exception handling, etc. You are expected to be proficient in either Java 7
+            Java Certificate. It covers basic topics in Java language such as classes, data structures,
+            inheritance, exception handling, etc. You are expected to be proficient in either Java 7
             or Java 8.
         - name: JavaScript Certificate
           start: 2023
@@ -179,7 +179,7 @@ certifications:
           credentialurl: openwebinars.net/cert/liO2
           credentialname: OpenWebinars
           details: |
-            JavaScript Aptitude Test by OpenWebinars. An medium level, M2, was achieved.
+            JavaScript Aptitude Test. An medium level, M2, was achieved.
         - name: MySQL Certificate
           start: 2023
           end:
@@ -188,7 +188,7 @@ certifications:
           credentialurl: openwebinars.net/cert/rX9E
           credentialname: OpenWebinars
           details: |
-            MySQL Aptitude Test by OpenWebinars. An medium level, M2, was achieved.
+            MySQL Aptitude Test. An medium level, M2, was achieved.
         - name: Problem Solving (Intermediate) Certificate
           start: 2023
           end:
@@ -197,7 +197,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/a9b99be03077
           credentialname: HackerRank
           details: |
-            Problem Solving (Intermediate) from HackerRank. It covers topics of Data Structures (such as HashMaps,
+            Problem Solving (Intermediate) Certificate. It covers topics of Data Structures (such as HashMaps,
             Stacks and Queues) and Algorithms (such as Optimal Solutions).
         - name: Problem Solving (Basic) Certificate
           start: 2023
@@ -207,7 +207,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/86e0bb0b1baf
           credentialname: HackerRank
           details: |
-            Problem Solving (Basic) from HackerRank. It covers basic topics of Data Structures (such as Arrays,
+            Problem Solving (Basic) Certificate. It covers basic topics of Data Structures (such as Arrays,
             Strings) and Algorithms (such as Sorting and Searching).
         - name: Python Certificate
           start: 2023
@@ -217,7 +217,7 @@ certifications:
           credentialurl: openwebinars.net/cert/jWPo
           credentialname: OpenWebinars
           details: |
-            Python Aptitude Test by OpenWebinars. An advanced level, A2, was achieved.
+            Python Aptitude Test. An advanced level, A2, was achieved.
         - name: Python Certificate
           start: 2023
           end:
@@ -226,7 +226,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/3ade1eebf198
           credentialname: HackerRank
           details: |
-            Python Certificate from HackerRank. It covers topics like Scalar Types, Operators and Control
+            Python Certificate. It covers topics like Scalar Types, Operators and Control
             Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes.
         - name: SQL Certificate
           start: 2023
@@ -236,7 +236,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/658505ab9849
           credentialname: HackerRank
           details: |
-            SQL (Intermediate) Certificate from HackerRank. It includes complex joins, unions, and sub-queries.
+            SQL (Intermediate) Certificate. It includes complex joins, unions, and sub-queries.
         - name: SQL Certificate
           start: 2023
           end:
@@ -245,7 +245,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/e75f000ce5a6
           credentialname: HackerRank
           details: |
-            SQL (Basic) Certificate from HackerRank. It includes simple queries, relationships, and aggregators.
+            SQL (Basic) Certificate. It includes simple queries, relationships, and aggregators.
 
 oss:
     title: OSS Contributions
@@ -288,7 +288,7 @@ skills:
         level: 90%
 
       - name: C & Zig & Rust
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
