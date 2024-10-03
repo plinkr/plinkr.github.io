@@ -142,6 +142,15 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Rest API (Intermediate) Certificate
+          start: 2024
+          end:
+          organization: HackerRank
+          credentialid: 28da47741ea9
+          credentialurl: www.hackerrank.com/certificates/28da47741ea9
+          credentialname: HackerRank
+          details: |
+            It covers topics like getting data from an API and process using parameters or paging.
         - name: SQL (Advanced) Certificate
           start: 2024
           end:
@@ -150,8 +159,8 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/80621e684fe9
           credentialname: HackerRank
           details: |
-            SQL (Advanced) Certificate. It covers topics like query optimization, data modeling,
-            Indexing, window functions, and pivots in SQL.
+            It covers topics like query optimization, data modeling,
+            indexing, window functions, and pivots in SQL.
         - name: Software Engineer Certificate
           start: 2024
           end:
@@ -160,7 +169,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/a6b75bf2260f
           credentialname: HackerRank
           details: |
-            Software Engineer Certificate. It covers topics like Problem solving and SQL.
+            It covers topics like Problem solving and SQL.
         - name: Java Certificate
           start: 2024
           end:
@@ -178,7 +187,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/e85f36b730de
           credentialname: HackerRank
           details: |
-            Software Engineer Certificate. It covers topics like Problem solving, SQL, and REST API.
+            It covers topics like Problem solving, SQL, and REST API.
         - name: Java Certificate
           start: 2023
           end:
@@ -187,7 +196,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/34d5f51ea5c3
           credentialname: HackerRank
           details: |
-            Java Certificate. It covers basic topics in Java language such as classes, data structures,
+            It covers basic topics in Java language such as classes, data structures,
             inheritance, exception handling, etc. You are expected to be proficient in either Java 7
             or Java 8.
         - name: JavaScript Certificate
@@ -216,7 +225,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/a9b99be03077
           credentialname: HackerRank
           details: |
-            Problem Solving (Intermediate) Certificate. It covers topics of Data Structures (such as HashMaps,
+            It covers topics of Data Structures (such as HashMaps,
             Stacks and Queues) and Algorithms (such as Optimal Solutions).
         - name: Problem Solving (Basic) Certificate
           start: 2023
@@ -226,7 +235,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/86e0bb0b1baf
           credentialname: HackerRank
           details: |
-            Problem Solving (Basic) Certificate. It covers basic topics of Data Structures (such as Arrays,
+            It covers basic topics of Data Structures (such as Arrays,
             Strings) and Algorithms (such as Sorting and Searching).
         - name: Python Certificate
           start: 2023
@@ -245,9 +254,9 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/3ade1eebf198
           credentialname: HackerRank
           details: |
-            Python Certificate. It covers topics like Scalar Types, Operators and Control
+            It covers topics like Scalar Types, Operators and Control
             Flow, Strings, Collections and Iteration, Modularity, Objects and Types and Classes.
-        - name: SQL Certificate
+        - name: SQL (Intermediate) Certificate
           start: 2023
           end:
           organization: HackerRank
@@ -255,8 +264,8 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/658505ab9849
           credentialname: HackerRank
           details: |
-            SQL (Intermediate) Certificate. It includes complex joins, unions, and sub-queries.
-        - name: SQL Certificate
+            It includes complex joins, unions, and sub-queries.
+        - name: SQL (Basic) Certificate
           start: 2023
           end:
           organization: HackerRank
@@ -264,7 +273,7 @@ certifications:
           credentialurl: www.hackerrank.com/certificates/e75f000ce5a6
           credentialname: HackerRank
           details: |
-            SQL (Basic) Certificate. It includes simple queries, relationships, and aggregators.
+            It includes simple queries, relationships, and aggregators.
 
 oss:
     title: OSS Contributions
