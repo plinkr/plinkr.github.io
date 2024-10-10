@@ -290,11 +290,15 @@ oss:
 
       - title: Training Timer
         link: https://github.com/plinkr/training_timer
-        tagline: A timer for interval training (MMA, Boxing, Kickboxing). Written in Flutter, it can be used natively on Linux and on the <a href="/training_timer_web" target="_blank">web</a>
+        tagline: A timer for interval training (MMA, Boxing, Kickboxing). Written in Flutter, it can be used natively on Linux and on the web: https://plinkr.github.io/training_timer_web/
         
       - title: dartfmt plugin for micro
         link: https://github.com/plinkr/micro-dartfmt
         tagline: micro editor plugin providing Dart language support, including formatting and linting using `dart format` and `dart analyze`
+
+      - title: FNM Cuba
+        link: https://github.com/plinkr/fnm_cuba
+        tagline: The National Medicines Formulary of Cuba, built with Flutter. It can run natively on platforms supported by Flutter, and on the web: https://plinkr.github.io/fnm/
 
 skills:
     title: Main Skills
