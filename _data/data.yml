@@ -54,10 +54,10 @@ career-profile:
       Experienced Software Engineer with strong expertise in Java/Spring, Python, Flutter, and SQL, and a
       solid grasp of Full Stack development and DevOps. I excel in complex backend tasks, from database
       management to API design, with a focus on building reliable and efficient systems. With over 10
-      years of experience, I’m a collaborative team player, known for my hardworking nature,
+      years of experience, I'm a collaborative team player, known for my hardworking nature,
       problem-solving skills, and keen attention to detail. While backend development is my specialty,
-      I’m also capable of contributing to frontend work and mobile app development when required.
-      I’m passionate about Open Source and enjoy collaborating with teams.
+      I'm also capable of contributing to frontend work and mobile app development when required.
+      I'm passionate about Open Source and enjoy collaborating with teams.
 education:
     title: Education
     info:
@@ -78,39 +78,49 @@ experiences:
         time: 2020 - Present
         company: Abalia, Madrid
         details: |
-          At Abalia, I’ve been deeply involved in the development and maintenance of large-scale applications.
+          At Abalia, I've been deeply involved in the development and maintenance of large-scale applications.
           My main project, <a href="https://elser.es" target="_blank">Elser</a>, is a comprehensive web
-          application for managing HR resources and assets, built using Java with Spring and Spring Boot on
+          application for managing HR resources and assets, built using Java with Spring and Spring-Boot on
           the backend, and JSF, PrimeFaces, and JoinFaces for the frontend. This platform handles everything
           from employee attendance and leave management to job candidate selection and outsourcing. It's a
           robust and highly active application, continually evolving with new features.
 
-          In parallel, I am currently developing an alternative application to Elser, using a backend in
-          Spring-Boot and a frontend with Angular. This is a greenfield project, built from scratch with
-          Angular and a specialized backend, designed to be mobile-friendly and support reactive mode.
+          Since November 2024, I was promoted and took on a senior-level role with increased responsibilities.
+          I now lead the technical direction and engineering management of the projects I work on, including Elser,
+          overseeing both the backend and frontend teams, while still actively developing code. In addition to
+          programming, I manage cloud services, DevOps tasks, and the deployment of services on Google Cloud,
+          leveraging Kubernetes for orchestration.
 
-          I also developed the mobile version of Elser using Flutter, which replicates much of the web
-          app’s functionality and is currently in beta on Google Play.
+          I am also in charge of software engineering processes across our projects: managing GitHub issues,
+          pull requests, and code reviews, and supervising the software design, project roadmaps, and release
+          cycles. My responsibilities now combine those of a Senior Developer, Software Engineer, and Technical
+          Project Lead, balancing hands-on coding with project management and engineering leadership.
 
-          Another major project I work on is <a href="https://hosteleo.com" target="_blank">Hosteleo</a>,
-          a job search platform focused on the hospitality and tourism industries. I designed and
-          implemented the entire backend using Java, Spring Boot, and PostgreSQL, and integrated various
-          third-party services like Stripe for payments, SendGrid for emails, and Google Cloud for hosting
-          user files. Hosteleo serves hundreds of thousands of users and includes Google Ads management.
+          In parallel, I continue developing an alternative application to Elser, using a Spring-Boot backend
+          and an Angular frontend. This is a greenfield project built from scratch, designed to be mobile-friendly
+          and support reactive mode.
 
-          In addition to these, I manage QA and testing for a web application called
-          <a href="https://vission.omega.wizzie.dev/" target="_blank">Vission</a>, automating tests with
-          Python and Selenium. I also lead the QA and testing process for Elser, using Playwright and Pytest
-          with Python. Additionally, I handle DevOps tasks, including cloud hosting on Google Cloud for
-          both Elser and Hosteleo, and oversee the release process for the Elser mobile app. My role has
-          also involved smaller projects like database migrations from MySQL to PostgreSQL and managing
-          WordPress services for both Hosteleo and Abalia.
+          I also developed the mobile version of Elser using Flutter, which replicates much of the web app's
+          functionality and is currently in beta on Google Play.
+
+          Another major project I lead is <a href="https://hosteleo.com" target="_blank">Hosteleo</a>, a job search
+          platform focused on the hospitality and tourism industries. I designed and implemented the entire backend
+          using Java, Spring-Boot, and PostgreSQL, integrating third-party services like Stripe for payments,
+          SendGrid for emails, and Google Cloud for hosting user files. Hosteleo serves hundreds of thousands
+          of users and includes Google Ads management.
+
+          Additionally, I manage QA and automated testing for a web application called
+          <a href="https://vission.omega.wizzie.dev/" target="_blank">Vission</a> using Python and Selenium,
+          and lead the QA and testing process for Elser, using Playwright and Pytest with Python. Beyond this,
+          I handle DevOps operations for Elser and Hosteleo, as well as the mobile release process for Elser.
+          My responsibilities also include smaller projects such as database migrations from MySQL to PostgreSQL
+          and managing WordPress services for both Hosteleo and Abalia.
       - role: Developer, DevOps, System Administrator
         time: 2018 - 2020
         company: University of Medical Sciences "Dr Faustino Pérez Hernández", Sancti Spíritus
         details: |
           At the University of Medical Sciences in Sancti Spíritus, I was responsible for the programming,
-          network administration, and DevOps for the university’s cloud services. I worked extensively with
+          network administration, and DevOps for the university's cloud services. I worked extensively with
           Docker and Kubernetes to manage and deploy these services. My role involved writing tools in Python
           and Perl to support network and service administration, as well as developing applications like a
           virtual library and digital journal system using Java, Python, Perl, Bash, and PHP.
@@ -126,7 +136,7 @@ experiences:
           At the University of Sancti Spíritus, I was part of the application development team while also handling
           responsibilities under the IT and networks group. I developed and managed several key applications,
           including the university's thesis repository, the internal webmail client, and the digital journals
-          for academic publications. My work extended to managing essential services like the university’s network,
+          for academic publications. My work extended to managing essential services like the university's network,
           internet proxy, and mail servers, all hosted on Linux and Proxmox systems, which I fully administered.
 
           My role involved coding in languages like Java, Bash, Python, PHP, Perl, and C, with a focus on both
