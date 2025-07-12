@@ -6,7 +6,10 @@
 
 
 // define variable with front matter
-{% if site.data.data.sidebar.position == 'left' %}
+// Obtener el lenguaje del sitio
+{% assign lang = site.lang | default: site.default_lang | default: 'en' %}
+// Usar esta estructura para acceder a los datos
+{% if site.data[lang].data.sidebar.position == 'left' %}
 $resume-order: 2;
 $sidebar-order: 1;
 {% else %}

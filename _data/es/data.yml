@@ -1,0 +1,350 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    position: left # position of the sidebar : left or right
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Aliet Expósito
+    tagline: Ingeniero de Software
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: plinkr.coder@gmail.com
+    phone: 
+    timezone: America/Havana # Enter your timezone, e.g., America/Cancun, Africa/Casablanca, America/North_Dakota/Center
+    citizenship: cubano
+    website: https://plinkr.github.io # Include the full website URL, including "http://" or "https://".
+    linkedin: aliet-exposito
+    xing: 
+    github: plinkr
+    telegram: plinkr # add your nickname without '@' sign
+    gitlab: plinkr
+    bitbucket:
+    bluesky: '@plinkr.bsky.social'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    mastodon: https://fosstodon.org/@plinkr # Please include your full Mastodon link here.
+    hackerrank: plinkr # Please provide your HackerRank username.
+    leetcode: plinkr # Please provide your LeetCode username.
+    pdf: assets/Aliet_Exposito_Resume.pdf
+
+    languages:
+      title: Idiomas
+      info:
+        - idiom: Español
+          level: Nativo
+
+        - idiom: Inglés
+          level: Profesional
+
+    interests:
+      title: Intereses/Hobbies
+      info:
+        - item: Entrenar MMA
+          link: https://es.wikipedia.org/wiki/Artes_marciales_mixtas
+
+career-profile:
+    title: Perfil de carrera
+    summary: |
+      Ingeniero de Software con amplia experiencia en Java/Spring, Python, Flutter y SQL, y un 
+      sólido dominio del desarrollo Full Stack y DevOps. Me destaco en tareas complejas de backend, 
+      desde la gestión de bases de datos hasta diseño de APIs, con un enfoque en la creación de 
+      sistemas fiables y eficientes. Con más de 10 años de experiencia, soy un colaborador en equipo, 
+      conocido por mi naturaleza trabajadora, habilidades para resolver problemas y gran atención 
+      al detalle. Aunque mi especialidad es el desarrollo backend, también soy capaz de contribuir 
+      en el desarrollo frontend y de aplicaciones móviles cuando es necesario. 
+      Me apasiona el Open Source y disfruto colaborando con equipos.
+education:
+    title: Educación
+    info:
+      - degree: Ingeniero Informático
+        university: Universidad de Sancti Spíritus "José Martí Pérez"
+        time: 2009 - 2014
+        details:
+
+      - degree: Ciencia de la Computación
+        university: Universidad Central "Marta Abreu" de Las Villas
+        time: 2005 - 2009
+        details: 
+
+experiences:
+    title: Experiencia
+    info:
+      - role: Ingeniero de Software, Desarrollador Full-Stack/Móviles, DevOps
+        time: 2020 - Presente
+        company: Abalia, Madrid
+        details: |
+          En Abalia, he estado profundamente involucrado en el desarrollo y mantenimiento de aplicaciones de gran escala.
+          Mi principal proyecto, <a href="https://elser.es" target="_blank">Elser</a>, es una aplicación web integral
+          para la gestión de recursos humanos y activos, desarrollada con Java usando Spring y Spring Boot en el backend,
+          y JSF, PrimeFaces y JoinFaces en el frontend. Esta plataforma gestiona todo, desde el control de asistencia y
+          gestión de ausencias, hasta la selección de candidatos y externalización de personal. Es una aplicación robusta
+          y en constante evolución, incorporando nuevas funcionalidades de forma continua.
+
+          En noviembre de 2024 fui promovido y asumí un puesto de nivel senior con mayores responsabilidades. Actualmente
+          lidero la dirección técnica y la gestión de ingeniería de los proyectos en los que participo, incluyendo Elser,
+          supervisando tanto los equipos de backend como de frontend, y continuando activamente con el desarrollo de código.
+          Además de programar, gestiono los servicios en la nube, tareas de DevOps y despliegues en Google Cloud, utilizando
+          Kubernetes para la orquestación.
+
+          También estoy a cargo de los procesos de ingeniería de software en todos nuestros proyectos: gestión de issues en GitHub,
+          revisión de pull requests, validación de código y supervisión de diseños de software, roadmaps de proyecto y ciclos de
+          versiones. Mis responsabilidades combinan las de un Desarrollador Senior, Ingeniero de Software y Líder Técnico de
+          Proyecto, equilibrando desarrollo práctico con gestión de proyectos y liderazgo técnico.
+
+          En paralelo, continúo desarrollando una aplicación alternativa a Elser, con un backend en Spring Boot y un frontend
+          en Angular. Es un proyecto greenfield creado desde cero, diseñado para ser mobile-friendly y compatible con modo reactivo.
+
+          También desarrollé la versión móvil de Elser usando Flutter, que replica gran parte de la funcionalidad de la aplicación
+          web y actualmente se encuentra en fase beta en Google Play.
+
+          Otro proyecto importante que lidero es <a href="https://hosteleo.com" target="_blank">Hosteleo</a>, una plataforma de
+          búsqueda de empleo especializada en los sectores de hostelería y turismo. Diseñé e implementé todo el backend usando
+          Java, Spring Boot y PostgreSQL, integrando servicios de terceros como Stripe para pagos, SendGrid para correos electrónicos
+          y Google Cloud para alojamiento de archivos de usuario. Hosteleo da servicio a cientos de miles de usuarios y gestiona
+          publicidad mediante Google Ads.
+
+          Adicionalmente, gestiono el control de calidad y pruebas automatizadas de la aplicación web
+          <a href="https://vission.omega.wizzie.dev/" target="_blank">Vission</a> usando Python y Selenium, y lidero los procesos de QA
+          y testing en Elser, utilizando Playwright y Pytest con Python. Además de esto, me encargo de las operaciones DevOps de Elser
+          y Hosteleo, así como del proceso de publicación de la versión móvil de Elser. Mis responsabilidades incluyen también proyectos
+          menores como migraciones de bases de datos de MySQL a PostgreSQL y la administración de servicios WordPress tanto para Hosteleo
+          como para Abalia.
+      - role: Desarrollador, DevOps, Administrador de Sistemas y Redes
+        time: 2018 - 2020
+        company: Universidad de Ciencias Médicas "Dr Faustino Pérez Hernández", Sancti Spíritus
+        details: |
+          En la Universidad de Ciencias Médicas de Sancti Spíritus fui responsable de la programación, 
+          la administración de redes y las tareas de DevOps para los servicios en la nube de la universidad. 
+          Trabajé de forma intensiva con Docker y Kubernetes para gestionar y desplegar estos servicios.
+          Mi labor incluyó el desarrollo de herramientas en Python y Perl para apoyar la administración de la red
+          y los servicios, así como la creación de aplicaciones como una biblioteca virtual y un sistema de 
+          revistas digitales, utilizando Java, Python, Perl, Bash y PHP.
+
+          Colaboré estrechamente con los equipos de ingeniería para integrar bibliotecas personalizadas y
+          repositorios digitales en los sistemas existentes. Además, definí las especificaciones de red para
+          optimizar el rendimiento, gestioné actualizaciones de los sistemas y velé por la integridad de los
+          datos. También me encargué de mantener la seguridad de los sistemas mediante la instalación de parches 
+          y actualizaciones necesarias, garantizando así la fiabilidad y seguridad de los servicios.
+      - role: Ingeniero de Software, Administrador de Sistemas y Redes
+        time: 2014 - 2017
+        company: Universidad de Sancti Spíritus "José Martí Pérez"
+        details: |
+          En la Universidad de Sancti Spíritus formé parte del equipo de desarrollo de aplicaciones, asumiendo
+          además responsabilidades dentro del grupo de redes y tecnologías de la información. Desarrollé y
+          administré varias aplicaciones clave, incluyendo el repositorio de tesis de la universidad, el cliente
+          de correo web interno y las revistas digitales para publicaciones académicas.
+
+          Mi trabajo se extendió a la gestión de servicios esenciales como la red universitaria, el proxy de 
+          internet y los servidores de correo, todos alojados en sistemas Linux y Proxmox, los cuales administré
+          en su totalidad.
+
+          Desarrollé software utilizando lenguajes como Java, Bash, Python, PHP, Perl y C, con enfoque tanto en el
+          desarrollo de aplicaciones como en la seguridad de la red y los servicios. También me encargué de la
+          instalación física y configuración de servidores cuando fue necesario. Colaboré estrechamente con los
+          equipos de desarrollo y pruebas para construir aplicaciones seguras y de alto rendimiento, documentando
+          además los procesos de monitoreo, recuperación y optimización de los sistemas.
+
+          Adicionalmente, impartí cursos de programación y dirigí talleres de programación competitiva, combinando
+          la programación práctica con fundamentos teóricos para apoyar a los estudiantes en el desarrollo de sus
+          habilidades. Mi labor se centró en garantizar operaciones confiables, seguras y eficientes, tanto a nivel
+          de software como de infraestructura.
+
+certifications:
+      title: Certificaciones
+      list:
+        - name: Certificado de API Rest (Intermedio)
+          start: 2024
+          end:
+          organization: HackerRank
+          credentialid: 28da47741ea9
+          credentialurl: www.hackerrank.com/certificates/28da47741ea9
+          credentialname: HackerRank
+          details: |
+            Cubre temas como obtener datos desde una API y procesarlos utilizando parámetros o paginación.
+        - name: Certificado de SQL (Avanzado)
+          start: 2024
+          end:
+          organization: HackerRank
+          credentialid: 80621e684fe9
+          credentialurl: www.hackerrank.com/certificates/80621e684fe9
+          credentialname: HackerRank
+          details: |
+            Cubre temas como optimización de consultas, modelado de datos,
+            creación de índices, funciones de ventana y pivots en SQL.
+        - name: Certificado de Ingeniero de Software
+          start: 2024
+          end:
+          organization: HackerRank
+          credentialid: a6b75bf2260f
+          credentialurl: www.hackerrank.com/certificates/a6b75bf2260f
+          credentialname: HackerRank
+          details: |
+            Cubre temas como resolución de problemas y SQL.
+        - name: Certificado de Java
+          start: 2024
+          end:
+          organization: OpenWebinars
+          credentialid: W8Pf
+          credentialurl: openwebinars.net/cert/W8Pf
+          credentialname: OpenWebinars
+          details: |
+            Prueba de aptitud en Java. Se alcanzó un nivel avanzado, A2.
+        - name: Certificado de Ingeniero de Software
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: e85f36b730de
+          credentialurl: www.hackerrank.com/certificates/e85f36b730de
+          credentialname: HackerRank
+          details: |
+            Cubre temas como resolución de problemas, SQL y API REST.
+        - name: Certificado de Java
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: 34d5f51ea5c3
+          credentialurl: www.hackerrank.com/certificates/34d5f51ea5c3
+          credentialname: HackerRank
+          details: |
+            Cubre temas básicos del lenguaje Java como clases, estructuras de datos,
+            herencia, gestión de excepciones, entre otros. Se espera dominio en Java 7 o Java 8.
+        - name: Certificado de JavaScript
+          start: 2023
+          end:
+          organization: OpenWebinars
+          credentialid: liO2
+          credentialurl: openwebinars.net/cert/liO2
+          credentialname: OpenWebinars
+          details: |
+            Prueba de aptitud en JavaScript. Se alcanzó un nivel medio, M2.
+        - name: Certificado de MySQL
+          start: 2023
+          end:
+          organization: OpenWebinars
+          credentialid: rX9E
+          credentialurl: openwebinars.net/cert/rX9E
+          credentialname: OpenWebinars
+          details: |
+            Prueba de aptitud en MySQL. Se alcanzó un nivel medio, M2.
+        - name: Certificado de Resolución de Problemas (Intermedio)
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: a9b99be03077
+          credentialurl: www.hackerrank.com/certificates/a9b99be03077
+          credentialname: HackerRank
+          details: |
+            Cubre temas de estructuras de datos (como HashMaps, Stacks y Queues)
+            y algoritmos (como soluciones óptimas).
+        - name: Certificado de Resolución de Problemas (Básico)
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: 86e0bb0b1baf
+          credentialurl: www.hackerrank.com/certificates/86e0bb0b1baf
+          credentialname: HackerRank
+          details: |
+            Cubre temas básicos de estructuras de datos (como Arrays y Strings)
+            y algoritmos (como ordenamiento y búsqueda).
+        - name: Certificado de Python
+          start: 2023
+          end:
+          organization: OpenWebinars
+          credentialid: jWPo
+          credentialurl: openwebinars.net/cert/jWPo
+          credentialname: OpenWebinars
+          details: |
+            Prueba de aptitud en Python. Se alcanzó un nivel avanzado, A2.
+        - name: Certificado de Python
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: 3ade1eebf198
+          credentialurl: www.hackerrank.com/certificates/3ade1eebf198
+          credentialname: HackerRank
+          details: |
+            Cubre temas como tipos escalares, operadores y flujo de control,
+            cadenas de texto, colecciones e iteración, modularidad, objetos, tipos y clases.
+        - name: Certificado de SQL (Intermedio)
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: 658505ab9849
+          credentialurl: www.hackerrank.com/certificates/658505ab9849
+          credentialname: HackerRank
+          details: |
+            Incluye operaciones JOIN, UNION y subconsultas complejas.
+        - name: Certificado de SQL (Básico)
+          start: 2023
+          end:
+          organization: HackerRank
+          credentialid: e75f000ce5a6
+          credentialurl: www.hackerrank.com/certificates/e75f000ce5a6
+          credentialname: HackerRank
+          details: |
+            Incluye consultas simples, relaciones y funciones agregadas.
+
+oss:
+    title: Contribuciones OSS
+    intro: >
+      Aquí tienes una lista de algunas contribuciones a proyectos de código abierto (OSS) y proyectos personales open-source:
+    contributions:
+      - title: plocate Search for LibreELEC/Kodi
+        link: https://github.com/plinkr/tools.plocate.search
+        tagline: |
+          Un complemento eficiente de búsqueda offline para LibreELEC/Kodi, que utiliza `plocate` para realizar búsquedas rápidas de archivos con una interfaz intuitiva dentro de Kodi.
+
+      - title: NautaPy
+        link: https://github.com/plinkr/nautapy
+        tagline: |
+          API en Python para el portal cautivo Nauta de Cuba, junto a una herramienta de línea de comandos (CLI).
+
+      - title: Training Timer
+        link: https://github.com/plinkr/training_timer
+        tagline: |
+          Temporizador para entrenamientos por intervalos (MMA, Boxeo, Kickboxing), desarrollado en Flutter.
+          Puede ejecutarse de forma nativa en Linux y en la web en
+          <a href="https://plinkr.github.io/training_timer_web/" target="_blank">https://plinkr.github.io/training_timer_web/</a>
+
+      - title: dartfmt plugin for micro
+        link: https://github.com/plinkr/micro-dartfmt
+        tagline: |
+          Plugin para el editor micro que añade soporte para el lenguaje Dart, incluyendo formateo y análisis de código mediante `dart format` y `dart analyze`.
+
+      - title: FNM Cuba
+        link: https://github.com/plinkr/fnm_cuba
+        tagline: |
+          Formulario Nacional de Medicamentos de Cuba, desarrollado con Flutter.
+          Puede ejecutarse de forma nativa en las plataformas soportadas por Flutter y en la web en
+          <a href="https://plinkr.github.io/fnm/" target="_blank">https://plinkr.github.io/fnm/</a>
+
+skills:
+    title: Habilidades Principales
+
+    toolset:
+      - name: Java & Spring
+        level: 95%
+        
+      - name: PostgreSQL & PL/SQL
+        level: 95%
+        
+      - name: Dart & Flutter
+        level: 90%
+
+      - name: Python
+        level: 90%
+
+      - name: Quarkus
+        level: 90%
+
+      - name: C & Zig & Rust
+        level: 50%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com/" target="_blank" rel="nofollow">Xiaoying Riley</a>

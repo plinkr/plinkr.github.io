@@ -62,19 +62,19 @@ education:
     title: Education
     info:
       - degree: Engineer's degree, Informatics
-        university: Universidad de Sancti Spíritus "José Martí Pérez"​
+        university: Universidad de Sancti Spíritus "José Martí Pérez"
         time: 2009 - 2014
         details:
 
       - degree: Computer Science
-        university: Universidad Central "Marta Abreu"​ de Las Villas
+        university: Universidad Central "Marta Abreu" de Las Villas
         time: 2005 - 2009
         details: 
 
 experiences:
     title: Experiences
     info:
-      - role: Full-Stack/Mobile Developer, DevOps
+      - role: Software Engineer, Full-Stack/Mobile Developer, DevOps
         time: 2020 - Present
         company: Abalia, Madrid
         details: |
@@ -342,4 +342,4 @@ skills:
         level: 50%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com/" target="_blank" rel="nofollow">Xiaoying Riley</a>

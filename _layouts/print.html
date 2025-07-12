@@ -1,28 +1,36 @@
 ---
-#Add "layout: compress" here to compress the html code
+# Add "layout: compress" here to compress the HTML code if desired
 ---
 
 <!DOCTYPE html>
+{% assign lang = page.lang | default: site.default_lang %}
 <!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
 <!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
 <!--[if !IE]><!-->
 <html lang="en">
-  <!--<![endif]-->
-  {% include head.html %}
-  <style>
-    body {
-      padding: 0 !important;
-    }
-    .wrapper {
-      max-width: unset !important;
-    }
-  </style>
-  <body>
-    <div class="wrapper">
-      {% include sidebar.html %}
+<!--<![endif]-->
 
-      <div class="main-wrapper">{{ content }}</div>
+{% include head.html lang=lang %}
+
+<style>
+  body {
+    padding: 0 !important;
+  }
+
+  .wrapper {
+    max-width: unset !important;
+  }
+</style>
+
+<body>
+  <div class="wrapper">
+    {% include sidebar.html lang=lang %}
+
+    <div class="main-wrapper">
+      {{ content }}
     </div>
-    {% include scripts.html %}
-  </body>
+  </div>
+
+  {% include scripts.html lang=lang %}
+</body>
 </html>

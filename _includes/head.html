@@ -1,5 +1,5 @@
 <head>
-  <title>{{ site.title }}</title>
+  <title>{{ site.title }} {% if page.lang == 'es' %} | en Español{% endif %}</title>
 
   <!-- Meta -->
   <meta charset="utf-8">
@@ -8,11 +8,18 @@
   {% endif%}
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="{{ site.description |default: "A beautiful
-  Jekyll theme for creating resume" }}">
+  <meta name="description" content="{{ site.description[page.lang] | default: 'Aliet Expósito&apos;s Resume' }}">
+
+  <!-- Multilingual SEO -->
+  {% if page.lang %}
+    <meta name="language" content="{{ page.lang }}">
+    <link rel="alternate" hreflang="x-default" href="{{ site.url }}{{ site.baseurl }}/">
+    <link rel="alternate" hreflang="en" href="{{ site.url }}{{ site.baseurl }}/">
+    <link rel="alternate" hreflang="es" href="{{ site.url }}{{ site.baseurl }}/es/">
+  {% endif %}
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="favicon.png">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.png">
 
   <!-- Global CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/assets/plugins/bootstrap/css/bootstrap.min.css">
@@ -22,6 +29,10 @@
 
   <!-- Theme CSS -->
   <link id="theme-style" rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
   <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
   <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>

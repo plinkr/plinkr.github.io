@@ -1,4 +1,4 @@
-{% assign sidebar = site.data.data.sidebar %}
+{% assign sidebar = site.data[include.lang].data.sidebar %}
 <div class="sidebar-wrapper">
 
   <div class="profile-container">
@@ -17,17 +17,31 @@
 
   </div><!--//profile-container-->
 
-  {% include contact.html %}
+  {% include contact.html lang=include.lang %}
 
   {% if sidebar.education %}
-    {% include education.html %}
+    {% include education.html lang=include.lang %}
   {% endif %}
 
-  {% include language.html %}
-  {% include interests.html %}
+  {% include language.html lang=include.lang %}
+  {% include interests.html lang=include.lang %}
 
   {% if sidebar.about %}
-    {% include about.html %}
+    {% include about.html lang=include.lang %}
   {% endif %}
+
+<div class="language-switcher" style="text-align:center; margin-top:1rem;">
+  {% if include.lang == "es" %}
+    <a href="{{ site.baseurl }}/">
+      <img src="{{ site.baseurl }}/assets/images/icons/language-regular.svg" class="language-icon" alt="English">
+      Change to English
+    </a>
+  {% else %}
+    <a href="{{ site.baseurl }}/es/">
+      <img src="{{ site.baseurl }}/assets/images/icons/language-regular.svg" class="language-icon" alt="Español">
+      Cambiar a Español
+    </a>
+  {% endif %}
+</div>
 
 </div><!--//sidebar-wrapper-->
