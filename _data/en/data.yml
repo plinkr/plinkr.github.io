@@ -31,7 +31,7 @@ sidebar:
     mastodon: https://fosstodon.org/@plinkr # Please include your full Mastodon link here.
     hackerrank: plinkr # Please provide your HackerRank username.
     leetcode: plinkr # Please provide your LeetCode username.
-    pdf: assets/Aliet_Exposito_Resume.pdf
+    pdf: /assets/Aliet_Exposito_Resume_en.pdf
 
     languages:
       title: Languages
