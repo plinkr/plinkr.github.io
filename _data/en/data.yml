@@ -319,6 +319,20 @@ oss:
           It can run natively on platforms supported by Flutter, and on the web at
           <a href="https://plinkr.github.io/fnm/" target="_blank">https://plinkr.github.io/fnm/</a>
 
+      - title: BOLT-LOVE
+        link: https://github.com/plinkr/bolt-love
+        tagline: |
+          A retro-style arcade game demo built with the LÖVE 2D framework, featuring procedural lightning,
+          real-time audio generation, and matrix-based pixel sprites
+
+      - title: FLASH-BLIP
+        link: https://github.com/plinkr/flash-blip
+        tagline: |
+          A procedurally generated 2D arcade game developed in Lua using the LÖVE framework. Features dynamic obstacle generation,
+          custom pixel font rendering, and algorithmically generated music with no external assets.
+          Includes endless and level-based modes with real-time difficulty scaling, powerup systems, and controller support. 
+          Deployed on <a href="https://plinkr.itch.io/flash-blip" target="_blank">https://plinkr.itch.io/flash-blip</a>
+
 skills:
     title: Main Skills
 
