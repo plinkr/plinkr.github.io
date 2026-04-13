@@ -109,10 +109,8 @@ experiences:
           SendGrid for emails, and Google Cloud for hosting user files. Hosteleo serves hundreds of thousands
           of users and includes Google Ads management.
 
-          Additionally, I manage QA and automated testing for a web application called
-          <a href="https://vission.omega.wizzie.dev/" target="_blank">Vission</a> using Python and Selenium,
-          and lead the QA and testing process for Elser, using Playwright and Pytest with Python. Beyond this,
-          I handle DevOps operations for Elser and Hosteleo, as well as the mobile release process for Elser.
+          Additionally, I lead the QA and testing process for Elser, using Playwright, Selenium and Pytest with Python.
+          Beyond this, I handle DevOps operations for Elser and Hosteleo, as well as the mobile release process for Elser.
           My responsibilities also include smaller projects such as database migrations from MySQL to PostgreSQL
           and managing WordPress services for both Hosteleo and Abalia.
       - role: Developer, DevOps, System Administrator

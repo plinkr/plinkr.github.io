@@ -109,12 +109,10 @@ experiences:
           y Google Cloud para alojamiento de archivos de usuario. Hosteleo da servicio a cientos de miles de usuarios y gestiona
           publicidad mediante Google Ads.
 
-          Adicionalmente, gestiono el control de calidad y pruebas automatizadas de la aplicación web
-          <a href="https://vission.omega.wizzie.dev/" target="_blank">Vission</a> usando Python y Selenium, y lidero los procesos de QA
-          y testing en Elser, utilizando Playwright y Pytest con Python. Además de esto, me encargo de las operaciones DevOps de Elser
-          y Hosteleo, así como del proceso de publicación de la versión móvil de Elser. Mis responsabilidades incluyen también proyectos
-          menores como migraciones de bases de datos de MySQL a PostgreSQL y la administración de servicios WordPress tanto para Hosteleo
-          como para Abalia.
+          Adicionalmente, lidero los procesos de QA y testing en Elser, utilizando Playwright, Selenium y Pytest con Python. Además de esto,
+          me encargo de las operaciones DevOps de Elser y Hosteleo, así como del proceso de publicación de la versión móvil de Elser.
+          Mis responsabilidades incluyen también proyectos menores como migraciones de bases de datos de MySQL a PostgreSQL y
+          la administración de servicios WordPress tanto para Hosteleo como para Abalia.
       - role: Desarrollador, DevOps, Administrador de Sistemas y Redes
         time: 2018 - 2020
         company: Universidad de Ciencias Médicas "Dr Faustino Pérez Hernández", Sancti Spíritus
