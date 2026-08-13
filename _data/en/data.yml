@@ -330,6 +330,14 @@ oss:
           custom pixel font rendering, and algorithmically generated music with no external assets.
           Includes endless and level-based modes with real-time difficulty scaling, powerup systems, and controller support. 
           Deployed on <a href="https://plinkr.itch.io/flash-blip" target="_blank">https://plinkr.itch.io/flash-blip</a>
+      
+      - title: FLASH-BLIP Leaderboard API
+        link: https://github.com/plinkr/flash-blip-leaderboard-api
+        tagline: |
+          A leaderboard backend for receiving, managing, validating replays, and storing high scores for the game FLASH-BLIP,
+          written in Go with Fiber and PostgreSQL. It validates replay integrity through a two-phase pipeline, an HMAC handshake
+          and asynchronous physics simulation for entries qualifying for the Top N. Includes V1/V2 replay format support,
+          LZ4 compression, User-Agent filtering, and community moderation
 
 skills:
     title: Main Skills

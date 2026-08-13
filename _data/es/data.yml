@@ -336,6 +336,13 @@ oss:
           Contiene modos infinito y por niveles, con escalado de dificultad en tiempo real, sistema de potenciadores y soporte para controladores.
           Publicado en <a href="https://plinkr.itch.io/flash-blip" target="_blank">https://plinkr.itch.io/flash-blip</a>
 
+      - title: FLASH-BLIP Leaderboard API
+        link: https://github.com/plinkr/flash-blip-leaderboard-api
+        tagline: |
+          Backend de leaderboards para recibir, gestionar, validar replays, y almacenar puntuaciones del juego FLASH-BLIP, escrito en Go con Fiber y PostgreSQL.
+          Valida la integridad de las replays mediante un pipeline en dos fases, handshake HMAC y simulación física asíncrona de las partidas que optan al Top N.
+          Incluye soporte para los formatos V1/V2, compresión LZ4, filtrado por User-Agent y moderación comunitaria.
+
 skills:
     title: Habilidades Principales
 
