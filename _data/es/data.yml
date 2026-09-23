@@ -343,11 +343,29 @@ oss:
           Valida la integridad de las replays mediante un pipeline en dos fases, handshake HMAC y simulación física asíncrona de las partidas que optan al Top N.
           Incluye soporte para los formatos V1/V2, compresión LZ4, filtrado por User-Agent y moderación comunitaria.
 
+      - title: Wild9-Decompilation
+        link: https://github.com/plinkr/Wild9-Decompilation
+        tagline: |
+          Decompilación con coincidencia byte a byte de la versión NTSC-U de `Wild 9` para Sony PlayStation 1 (SLUS_004.25), construida con una toolchain
+          reproducible de GCC 2.8.0 PSX y GNU binutils 2.42
+
+      - title: ppf_rust
+        link: https://github.com/plinkr/ppf_rust
+        tagline: |
+          Suite de alto rendimiento en Rust para crear, aplicar, inspeccionar y revertir parches en formato PlayStation Patch File (PPF v1.0, v2.0 y v3.0).
+          Implementa versiones para CLI, GUI(egui) y Web(WebAssembly)
+
+      - title: Wild9Recomp
+        link: https://github.com/plinkr/Wild9Recomp
+        tagline: |
+          Port nativo para PC del clásico título de PlayStation 1 `Wild 9`, creado mediante recompilación estática. Incluye formato widescreen(panorámico) real,
+          renderizado en alta resolución, corrección PGXP, posibilidad de saltar las intros y un sistema de mods extensible, con soporte para FPS altos actualmente en desarrollo
+
 skills:
-    title: Habilidades Principales
+    title: Main Skills
 
     toolset:
-      - name: Java & Spring
+      - name: Java & Spring & Quarkus
         level: 95%
         
       - name: PostgreSQL & PL/SQL
@@ -359,11 +377,11 @@ skills:
       - name: Python
         level: 90%
 
-      - name: Quarkus
+      - name: Go
         level: 90%
 
-      - name: C & Zig & Rust
-        level: 50%
+      - name: Rust
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com/" target="_blank" rel="nofollow">Xiaoying Riley</a>

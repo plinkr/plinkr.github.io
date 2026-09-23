@@ -330,7 +330,7 @@ oss:
           custom pixel font rendering, and algorithmically generated music with no external assets.
           Includes endless and level-based modes with real-time difficulty scaling, powerup systems, and controller support. 
           Deployed on <a href="https://plinkr.itch.io/flash-blip" target="_blank">https://plinkr.itch.io/flash-blip</a>
-      
+
       - title: FLASH-BLIP Leaderboard API
         link: https://github.com/plinkr/flash-blip-leaderboard-api
         tagline: |
@@ -339,11 +339,29 @@ oss:
           and asynchronous physics simulation for entries qualifying for the Top N. Includes V1/V2 replay format support,
           LZ4 compression, User-Agent filtering, and community moderation
 
+      - title: Wild9-Decompilation
+        link: https://github.com/plinkr/Wild9-Decompilation
+        tagline: |
+          Matching decompilation of `Wild 9` for the Sony PlayStation 1, targeting the NTSC-U SLUS_004.25 executable, built with a reproducible GCC 2.8.0 PSX and
+          GNU binutils 2.42 toolchain
+
+      - title: ppf_rust
+        link: https://github.com/plinkr/ppf_rust
+        tagline: |
+          High-performance Rust suite for creating, applying, inspecting, and reverting patches in the PlayStation Patch File (PPF v1.0, v2.0, and v3.0) format.
+          With versions for CLI, GUI(egui) and Web(WebAssembly)
+
+      - title: Wild9Recomp
+        link: https://github.com/plinkr/Wild9Recomp
+        tagline: |
+          Native PC port of the classic PlayStation 1 title `Wild 9`, powered by static recompilation. Features true widescreen,
+          high-resolution rendering, PGXP correction, intro skipping, and an extensible mod system, with higher framerate support in development
+
 skills:
     title: Main Skills
 
     toolset:
-      - name: Java & Spring
+      - name: Java & Spring & Quarkus
         level: 95%
         
       - name: PostgreSQL & PL/SQL
@@ -355,11 +373,11 @@ skills:
       - name: Python
         level: 90%
 
-      - name: Quarkus
+      - name: Go
         level: 90%
 
-      - name: C & Zig & Rust
-        level: 50%
+      - name: Rust
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://themes.3rdwavemedia.com/" target="_blank" rel="nofollow">Xiaoying Riley</a>
